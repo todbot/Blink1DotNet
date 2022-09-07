@@ -9,3 +9,7 @@ Available demos:
 
 - Blink1.ConsoleDemo
 - Blink1.ColorPicker
+
+
+This contents of this repo was originally located at:
+https://github.com/todbot/blink1/tree/main/windows/ManagedBlink1
